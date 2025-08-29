@@ -1,5 +1,5 @@
-from src import netmeter
+from src.netmeter import main
 
 def test_netmeter():
-    assert netmeter.main.connected(True) == True
-    assert netmeter.main.connected(False) == False
+    assert main.connected(True) is True
+    assert main.connected(False) is False
