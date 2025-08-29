@@ -1,7 +1,7 @@
 [project]
 name = "netmeter"
-version = "0.1.0"
-description = ""
+version = "0.0.1"
+description = "Allows you to monitor the availability of your internet connection"
 authors = [
     {name = "Yann DEBLY",email = "yann.debly@live.com"}
 ]
