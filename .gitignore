@@ -2,3 +2,5 @@
 .vscode
 .venv
 **.pyc
+*.xlsx
+.DS_Store

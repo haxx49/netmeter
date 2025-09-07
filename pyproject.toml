@@ -8,6 +8,9 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "requests",
+    "pyexcel",
+    "pyexcel-xslsx"
 ]
 
 [tool.poetry]
